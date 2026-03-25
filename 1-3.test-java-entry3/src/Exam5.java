@@ -6,7 +6,7 @@ public class Exam5 {
 		int answer2 = subtraction();
 		System.out.println("引き算結果:"+answer2);
 		int answer3 = multiplication();
-		System.out.println("掛け算結果"+answer3);
+		System.out.println("掛け算結果:"+answer3);
 		int answer4 = division();
 		System.out.println("割り算結果:"+answer4);
         int anser5 = remainder();
